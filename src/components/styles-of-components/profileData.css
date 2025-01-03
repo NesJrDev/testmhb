@@ -1,0 +1,59 @@
+/* profileData.css */
+/* body {
+
+}
+ */
+.profile_data_container {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle, rgba(78,78,78,1) 0%, rgba(24,24,24,1) 22%, rgba(0,0,0,1) 29%, rgba(0,0,0,1) 53%, rgba(0,0,0,1) 68%, rgba(69,69,69,1) 92%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.Profile_data {
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.Profile_data img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.Profile_data h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.Profile_data p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 5px;
+}
+.user_button {
+    width: 100%;
+    height: 35px;
+    border-radius: 25px;
+    color: white;
+    background: linear-gradient(90deg, rgba(27,97,213,1) 0%, rgba(57,111,201,1) 56%, rgba(2,94,247,1) 82%, rgba(2,94,247,1) 100%);
+    margin-top: 15px;
+    cursor: pointer;
+}
+.Profile_data_error {
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}

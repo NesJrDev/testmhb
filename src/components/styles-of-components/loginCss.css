@@ -1,0 +1,92 @@
+  .containerLogIn {
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle, rgba(78,78,78,1) 0%, rgba(24,24,24,1) 22%, rgba(0,0,0,1) 29%, rgba(0,0,0,1) 53%, rgba(0,0,0,1) 68%, rgba(69,69,69,1) 92%);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .container_logIn {
+    background-color: #ffffff;
+    width: 400px;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .logIn_input_container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .logIn_input_container input {
+    padding: 12px;
+    font-size: 14px;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    outline: none;
+    transition: all 0.3s ease;
+  }
+  
+  .logIn_input_container input:focus {
+    border-color: #7f8c8d;
+    background-color: #fff;
+  }
+  .logIn_input_container inp {
+    background-color: red;
+  }
+  .submitButton {
+    width: 100%;
+    height: 35px;
+    color: white;
+    background: linear-gradient(90deg, rgba(27,97,213,1) 0%, rgba(57,111,201,1) 56%, rgba(2,94,247,1) 82%, rgba(2,94,247,1) 100%);
+  }
+  /* Google Button */
+  .buttonGoogleRegister {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4f6f9;
+    border: 1px solid #dcdcdc;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buttonGoogleRegister img {
+    width: 20px;
+    margin-right: 10px;
+  }
+  
+  .buttonGoogleRegister p {
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+  }
+  
+  .buttonGoogleRegister:hover {
+    background-color: #e1e4e8;
+  }
+  
+  /* Additional Styles */
+  p {
+    font-size: 14px;
+    color: #999;
+    margin: 10px 0;
+  }
+  
+  br {
+    margin: 10px;
+  }
