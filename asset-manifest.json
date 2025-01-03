@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35dcee4d.css",
+    "main.js": "/static/js/main.f8744664.js",
+    "static/js/156.a0b308d7.chunk.js": "/static/js/156.a0b308d7.chunk.js",
+    "static/media/app_user.png": "/static/media/app_user.75ecfa8be6d6b5718df5.png",
+    "static/media/vecteezy_google-logo-on-transparent-white-background_13948549.jpg": "/static/media/vecteezy_google-logo-on-transparent-white-background_13948549.d145e7cb786dee4a75cf.jpg",
+    "static/media/blank-profile-picture-973460_640.png": "/static/media/blank-profile-picture-973460_640.afe07f57979e2bba2183.png",
+    "index.html": "/index.html",
+    "main.35dcee4d.css.map": "/static/css/main.35dcee4d.css.map",
+    "main.f8744664.js.map": "/static/js/main.f8744664.js.map",
+    "156.a0b308d7.chunk.js.map": "/static/js/156.a0b308d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35dcee4d.css",
+    "static/js/main.f8744664.js"
+  ]
+}
